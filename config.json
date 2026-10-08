@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "file-handling-json",
+      "title": "File Handling and JSON",
+      "description": "Read and write JSON files in Python to store and reuse data",
+      "path": "assignments/file-handling-json",
+      "dueDate": "2026-10-15",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
